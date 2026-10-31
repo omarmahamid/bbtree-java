@@ -13,6 +13,18 @@ optimistic lock coupling.
 
 Java 21+, no runtime dependencies.
 
+## Install
+
+```xml
+<dependency>
+    <groupId>io.github.omarmahamid</groupId>
+    <artifactId>bbtree</artifactId>
+    <version>0.1.0</version>
+</dependency>
+```
+
+Gradle: `implementation("io.github.omarmahamid:bbtree:0.1.0")`
+
 ## Usage
 
 ```java
